@@ -10,9 +10,9 @@ services:
       - key: N8N_BASIC_AUTH_ACTIVE
         value: true
       - key: N8N_BASIC_AUTH_USER
-        value: admin
+        value: fcb
       - key: N8N_BASIC_AUTH_PASSWORD
-        value: your_secure_password
+        value: pavansp/divyasp
       - key: N8N_HOST
         value: 0.0.0.0
       - key: N8N_PORT
@@ -32,4 +32,4 @@ services:
       - key: DB_POSTGRESDB_USER
         value: neondb_owner
       - key: DB_POSTGRESDB_PASSWORD
-        value: your_real_password_here
+        value: npg_6s8RPkObeJxX
